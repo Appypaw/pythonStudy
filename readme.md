@@ -1,5 +1,7 @@
 파이썬 공부.
 
+https://www.w3schools.com/python/ 베이스로 공부함.
+
 Troubleshooting
 문제 해결: Git 연동 문제
 문제 상황
