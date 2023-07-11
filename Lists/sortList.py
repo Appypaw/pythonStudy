@@ -20,5 +20,8 @@ def closest(n):
     return abs(n - 50)
 
 numbers = [10,40,30,68,41,54]
-thislist.sort(key = closest)
-print(thislist)
+
+numbers.sort(key = closest)
+print(numbers)
+#[54, 41, 40, 68, 30, 10]
+#50에 가장 가까운 수부터 나옴
