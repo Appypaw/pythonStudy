@@ -122,3 +122,14 @@ for a in adj:
 큰 고양이
 """
 #다중  for문 사용 가능.
+
+thislist = ["apple", "banana", "cherry"]
+for i in range(len(thislist)):
+  print(thislist[i]) 
+"""
+apple
+banana
+cherry
+"""
+#리스트의 인덱스 번호만큼 반복하는 반복문.
+
